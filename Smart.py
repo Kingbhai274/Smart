@@ -1,5 +1,13 @@
-# Ustad# SIDRA5# Thuglife# Somibro# Gamz#!/usr/bin/python2
+  
+#!/usr/bin/python2
+
 #coding=utf-8
+
+#The Credit For This Code Goes To Mansoor Khan
+
+#If You Wanna Take Credits For This Code, Please Look Yourself Again...
+
+#Reserved2020
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
 for n in range(10000):
